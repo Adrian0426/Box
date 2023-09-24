@@ -2,14 +2,15 @@ html body {
     font-size: 80%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 0.15em;
-    background-color: #303030 ;
+    background: url(pianobg.jpg);
+    background-size: cover;
 }
 #page{
     max-width: 940px;
     min-width: 720px;
     margin: 10px auto 5px auto;
     padding: 20px;
-    background-color: #030303;
+    background-color: #323232;
     border-radius: 10px;
     color: #efefef;
     border: #efefef solid 3px;
